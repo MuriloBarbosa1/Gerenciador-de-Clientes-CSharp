@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7jbbepm4iuauoAC6zvb+1w1cexrNLiXjKq3MNAtQeCs/98OgfwBLMjrgrovqMg2ZtXQuynB1DjTvMfIc3ENNtg==",
+  "dgSpecHash": "Zumr99aHRUCTUrs3/EeTHgZFL0lsrfOgAyAGV0VftH49soDYK4CHPjcV7XbTqoweJAzuruqyI5LimQzDcaerHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\mubar\\OneDrive - EDU - Organização Educacional Barão de Mauá\\Documentos\\Programação\\Visual Studio 2022\\GestorDeCliente\\GestorDeCliente.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mubar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
