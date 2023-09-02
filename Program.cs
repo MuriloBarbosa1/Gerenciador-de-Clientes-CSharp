@@ -119,8 +119,7 @@ class Program
 
 
     }
-    //metodos mais comuns de salvar json e xml*/
-    // serializable c# json
+    
     static void Carregar()
     {
         
